@@ -1,0 +1,36 @@
+:root{
+    --lavanderBlue : #FFF0F5;
+    --beige : #F5F5DC;
+    --lavander : #E6E6FA;
+    --bisque: #FFE4C4;
+}
+body{
+    background-color: var(--lavander);
+}
+.h1{
+    font-family: "Zilla Slab", serif;
+}
+
+.modal-title{
+    font-family: "Zilla Slab", serif;
+}
+
+p{
+    font-family:"Yatra One", system-ui;
+}
+
+button.btn-success{
+    background-color: var(--lavanderBlue);
+    color: #000000;
+}
+.card{
+    background-color: bisque;
+}
+
+.td{
+    background-color: bisque;
+}
+
+button.btn-info{
+    background-color: beige;
+}
